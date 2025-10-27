@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as t,a as r,r as c,o as s}from"./index-DaTt_SEd.js";const _={class:"product-view"},a={__name:"ProductView",setup(n){return(p,i)=>{const e=c("router-view");return s(),t("div",_,[r(e)])}}},u=o(a,[["__scopeId","data-v-5b68a1f0"]]);export{u as default};
